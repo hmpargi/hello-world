@@ -6,3 +6,4 @@
 <h1>Ansible Code Automation 3</h1>
 <h1>Ansible Code Automation IV</h1>
 <h1>Ansible Code Automation V</h1>
+<h1>Ansible Code Automation VI</h1>
